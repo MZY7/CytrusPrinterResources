@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 1,
+  "VersionCode": 2,
   "VersionName": "1.1",
   "ModifyContent": "1.调整文档功能。\r\n2.优化自动升级。\r\n3.加载图像处理框架，即将开放图形功能。",
   "DownloadUrl": "https://cytrusprinterresources.mzy7.cn/UPDATE_PACK/release/1.1/app-release.apk",
