@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 2,
-  "VersionName": "1.1",
-  "ModifyContent": "1.调整文档功能。\r\n2.优化自动升级。\r\n3.加载图像处理框架，即将开放图形功能。",
-  "DownloadUrl": "https://cytrusprinterresources.mzy7.cn/UPDATE_PACK/release/1.1/app-release.apk",
-  "ApkSize": 11391,
-  "ApkMd5": "86c2918173fa45c2efe0e6d2bab05d99"
+  "VersionCode": 4,
+  "VersionName": "1.2",
+  "ModifyContent": "1.调整文档功能，支持一键去空行。\r\n2.优化自动升级。\r\n3.加载图像处理框架，开放图像打印功能。\r\n4.加入OCR文字识别功能（需对接百度智能云）",
+  "DownloadUrl": "https://cytrusprinterresources.mzy7.cn/UPDATE_PACK/release/1.2/app-release.apk",
+  "ApkSize": 3087,
+  "ApkMd5": "25eb5c8b9c97f2d6ca4608a5c6088a36"
 }
