@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 4,
+  "VersionCode": 5,
   "VersionName": "1.2",
   "ModifyContent": "1.调整文档功能，支持一键去空行。\r\n2.优化自动升级。\r\n3.加载图像处理框架，开放图像打印功能。\r\n4.加入OCR文字识别功能（需对接百度智能云）",
   "DownloadUrl": "https://cytrusprinterresources.mzy7.cn/UPDATE_PACK/release/1.2/app-release.apk",
